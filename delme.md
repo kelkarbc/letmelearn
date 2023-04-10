@@ -29,6 +29,9 @@ sudo yum install gh
 // Configure gh login to Git-Github
 gh auth login
 
+git checkout delme.md
+git add delme.md
+git commit
 git push https://github.com/kelkarbc/letmelearn.git
 
 //Git config user name and email
