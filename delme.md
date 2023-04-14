@@ -42,4 +42,6 @@ git config --global user.email "bckel@noreply.com"
 //Git pull from github repo
 git pull https://github.com/kelkarbc/letmelearn.git
 
+// Add to sudoers list
+visudo
 
